@@ -42,6 +42,6 @@ def four():
     title="404"
     return render_template('404.html',title=title)
 
-app.run(debug='false')
+
 
 
